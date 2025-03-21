@@ -19,7 +19,7 @@ const Navbar = () => {
             <h1>eCommerce</h1>
 
             <div className="flex items-center gap-6">
-                <Link href="/">Home</Link>
+                <Link href="/">Products</Link>
                 {/* Cart */}
                 <Link href="/cart" className="relative">
                     🛒 Cart
