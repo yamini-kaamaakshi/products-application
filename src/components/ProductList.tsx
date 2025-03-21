@@ -1,5 +1,5 @@
 "use client";
-import { useCartStore } from "../../../../../Users/user/ecommerce-app/src/store/cartStore";
+import { useCartStore } from "@/store/cartStore";
 
 const products = [
     { id: 1, name: "Product A", price: 20 },

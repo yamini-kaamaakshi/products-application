@@ -20,7 +20,6 @@ const Navbar = () => {
 
             <div className="flex items-center gap-6">
                 <Link href="/">Home</Link>
-
                 {/* Cart */}
                 <Link href="/cart" className="relative">
                     🛒 Cart
